@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Mahasiswa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NIM>24131310026</NIM>
+  <Nama>Davinah Ristiyanti</Nama>
+  <IPK>4</IPK>
+</Mahasiswa>

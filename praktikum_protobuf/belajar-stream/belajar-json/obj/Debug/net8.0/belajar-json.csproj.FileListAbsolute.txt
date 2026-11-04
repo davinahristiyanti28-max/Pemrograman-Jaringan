@@ -1,0 +1,14 @@
+C:\belajar-stream\belajar-json\obj\Debug\net8.0\belajar-json.GeneratedMSBuildEditorConfig.editorconfig
+C:\belajar-stream\belajar-json\obj\Debug\net8.0\belajar-json.AssemblyInfoInputs.cache
+C:\belajar-stream\belajar-json\obj\Debug\net8.0\belajar-json.AssemblyInfo.cs
+C:\belajar-stream\belajar-json\obj\Debug\net8.0\belajar-json.csproj.CoreCompileInputs.cache
+C:\belajar-stream\belajar-json\bin\Debug\net8.0\belajar-json.exe
+C:\belajar-stream\belajar-json\bin\Debug\net8.0\belajar-json.deps.json
+C:\belajar-stream\belajar-json\bin\Debug\net8.0\belajar-json.runtimeconfig.json
+C:\belajar-stream\belajar-json\bin\Debug\net8.0\belajar-json.dll
+C:\belajar-stream\belajar-json\bin\Debug\net8.0\belajar-json.pdb
+C:\belajar-stream\belajar-json\obj\Debug\net8.0\belajar-json.dll
+C:\belajar-stream\belajar-json\obj\Debug\net8.0\refint\belajar-json.dll
+C:\belajar-stream\belajar-json\obj\Debug\net8.0\belajar-json.pdb
+C:\belajar-stream\belajar-json\obj\Debug\net8.0\belajar-json.genruntimeconfig.cache
+C:\belajar-stream\belajar-json\obj\Debug\net8.0\ref\belajar-json.dll
